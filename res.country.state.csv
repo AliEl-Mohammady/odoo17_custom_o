@@ -1,0 +1,95 @@
+id,country_id:id,name,code,area_id:id
+base.state_sa_1,base.sa,Abha,AHB,aria_sa_6
+base.state_sa_2,base.sa,Abqaiq,ABQ,aria_sa_9
+base.state_sa_3,base.sa,Ad Dammam,DMM,aria_sa_5
+base.state_sa_4,base.sa,Ad Dawadami,DAW,aria_sa_1
+base.state_sa_5,base.sa,Al Baha,ABT,aria_sa_12
+base.state_sa_6,base.sa,Al Bahah,BAH,aria_sa_12
+base.state_sa_7,base.sa,Al Hada,AHA,
+base.state_sa_8,base.sa,Al Hadithah,HAD,
+base.state_sa_9,base.sa,Al Hasa,ALH,aria_sa_5
+base.state_sa_10,base.sa,Al Jawf,LJW,
+base.state_sa_11,base.sa,Al Jubayl Industrial City,JBI,
+base.state_sa_12,base.sa,Al Kharj,AKH,aria_sa_1
+base.state_sa_13,base.sa,Al Khobar,AQK,aria_sa_5
+base.state_sa_14,base.sa,Al Khobar,ALK,aria_sa_5
+base.state_sa_15,base.sa,Al Khuraibah,KHU,
+base.state_sa_16,base.sa,Al Muajjiz,AMU,
+base.state_sa_17,base.sa,Al Qahmah,QAH,
+base.state_sa_18,base.sa,Al Qunfudah,QUN,aria_sa_2
+base.state_sa_19,base.sa,Al Qurainah,QRN,aria_sa_1
+base.state_sa_20,base.sa,Al Shuqaiq,ASQ,
+base.state_sa_21,base.sa,Al 'Uthmaniyah,AUT,
+base.state_sa_22,base.sa,Ar Rass,ARR,aria_sa_4
+base.state_sa_23,base.sa,Arar,RAE,aria_sa_9
+base.state_sa_24,base.sa,Asfan,ASF,
+base.state_sa_25,base.sa,Badanah,BDN,
+base.state_sa_26,base.sa,Bisha,BHH,aria_sa_6
+base.state_sa_27,base.sa,Buraydah,BRU,
+base.state_sa_28,base.sa,Buraydah,BUR,aria_sa_4
+base.state_sa_29,base.sa,Dhahran,DHA,
+base.state_sa_30,base.sa,Dhuba,DHU,
+base.state_sa_31,base.sa,Fiji,FJJ,
+base.state_sa_32,base.sa,Gassim,ELQ,
+base.state_sa_33,base.sa,Gurayat,URY,
+base.state_sa_34,base.sa,Hafar al Batin,HBT,aria_sa_5
+base.state_sa_35,base.sa,Hail,HAS,aria_sa_8
+base.state_sa_36,base.sa,Harad,RAD,
+base.state_sa_37,base.sa,Hazm Al Jalamid,HZM,
+base.state_sa_38,base.sa,Hofuf,HOF,
+base.state_sa_39,base.sa,Jazan Economic City,JEC,aria_sa_10
+base.state_sa_40,base.sa,Jeddah,JED,aria_sa_2
+base.state_sa_41,base.sa,Jeddah Industrial City 2 & 3,JIC,aria_sa_2
+base.state_sa_42,base.sa,Jeddah Yachts Club Port,JYC,aria_sa_2
+base.state_sa_43,base.sa,Jizan,GIZ,aria_sa_10
+base.state_sa_44,base.sa,Jouf,AJF,aria_sa_13
+base.state_sa_45,base.sa,Juaymah Terminal,JUT,aria_sa_5
+base.state_sa_46,base.sa,Jubail,JUB,
+base.state_sa_47,base.sa,Khamis Mushayt,KMX,aria_sa_6
+base.state_sa_48,base.sa,King Abdullah City,KAC,
+base.state_sa_49,base.sa,King Fhad,KFH,
+base.state_sa_50,base.sa,King Khalid,KKH,
+base.state_sa_51,base.sa,Lith,LIT,aria_sa_2
+base.state_sa_52,base.sa,Madinah,MED,aria_sa_3
+base.state_sa_53,base.sa,Majma,MJH,aria_sa_1
+base.state_sa_54,base.sa,Makkah,MAK,aria_sa_2
+base.state_sa_55,base.sa,Manailih,MAN,
+base.state_sa_56,base.sa,Manfouha,MUF,
+base.state_sa_57,base.sa,Muhayil,MHY,
+base.state_sa_58,base.sa,Najran,NJN,aria_sa_11
+base.state_sa_59,base.sa,Nejran,EAM,
+base.state_sa_60,base.sa,Qaisumah,AQI,
+base.state_sa_61,base.sa,Qalsn,QAL,
+base.state_sa_62,base.sa,Qatif,QTF,aria_sa_5
+base.state_sa_63,base.sa,Qurayyah,QUR,aria_sa_13
+base.state_sa_64,base.sa,Rabigh,RAB,aria_sa_2
+base.state_sa_65,base.sa,Rafha,RAH,aria_sa_9
+base.state_sa_66,base.sa,Ras al Khafji,RAR,
+base.state_sa_67,base.sa,Ras al Mishab,RAM,
+base.state_sa_68,base.sa,Ras Al-Khair,RAZ,
+base.state_sa_69,base.sa,Ras Tanura,RTA,
+base.state_sa_70,base.sa,Riyadh,RUH,aria_sa_1
+base.state_sa_71,base.sa,Riyadh Dry Port,RYP,aria_sa_1
+base.state_sa_72,base.sa,Safaniya,SAF,
+base.state_sa_73,base.sa,Salboukh,SUH,
+base.state_sa_74,base.sa,Salwá,SAL,aria_sa_2
+base.state_sa_74,base.sa,Salwá,SAL,aria_sa_2
+base.state_sa_75,base.sa,Sayhat,SAY,aria_sa_3
+base.state_sa_76,base.sa,Shadqam,SHD,aria_sa_4
+base.state_sa_77,base.sa,Sharurah,SHW,aria_sa_11
+base.state_sa_78,base.sa,Shuaibah,SHU,aria_sa_6
+base.state_sa_79,base.sa,Sulayel,SLF,
+base.state_sa_80,base.sa,Tabuk,TUU,aria_sa_7
+base.state_sa_81,base.sa,Taif,TIF,
+base.state_sa_82,base.sa,Turaif,TUI,aria_sa_2
+base.state_sa_83,base.sa,Tusdeer Free Zone,TFZ,
+base.state_sa_84,base.sa,Udhailiyah,UDH,
+base.state_sa_85,base.sa,Umm Lajj,VLA,
+base.state_sa_86,base.sa,Unayzah,UZH,aria_sa_4
+base.state_sa_87,base.sa,Wadi ad Dawasir,WAE,aria_sa_1
+base.state_sa_88,base.sa,Waisumah,AWI,
+base.state_sa_89,base.sa,Wedjh,EJH,aria_sa_7
+base.state_sa_90,base.sa,Yanbu commercial city,YNB,aria_sa_3
+base.state_sa_91,base.sa,Yanbu Industrial City,YBI,aria_sa_3
+base.state_sa_92,base.sa,Zilfi,ZUL,aria_sa_1
+base.state_sa_93,base.sa,Zulayfayn,ZUY,
